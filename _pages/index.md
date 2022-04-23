@@ -6,7 +6,7 @@ permalink: /
 
 # プロフィール紹介
 
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwikiwiki.jp%2Fnijisanji%2F%25E5%258F%25B6&psig=AOvVaw0gNs3a64yUrzxuliHHY_nr&ust=1650709742947000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLDOp5K7p_cCFQAAAAAdAAAAABAD)
+![image](https://cdn.wikiwiki.jp/to/w/nijisanji/%E5%8F%B6/::ref/kanae_keyvisual.jpg?rev=8cb5e3a08dff9dcdb2ea5e2383a4294c&t=20200830184038)
 突然天使の如く舞い降りてきた超癒し系男子。そして猫のクッションを両手で抱っこしている。話し方もふわふわしている。
 学生のように見えるが普段何をしているかは不明。
 甘いボイスで、聞いているこちらの心が洗い流されるようなトークを繰り広げる。　　
