@@ -3,12 +3,11 @@ title: "にじさんじ　ChroNoiR紹介"
 author: default
 permalink: /
 ---
-#　メンバー
 
 
 
 -----------
-## 叶　プロフィール
+# 叶　プロフィール
 
 ![image](https://cdn.wikiwiki.jp/to/w/nijisanji/%E5%8F%B6/::ref/kanae_keyvisual.jpg?rev=8cb5e3a08dff9dcdb2ea5e2383a4294c&t=20200830184038)
 突然天使の如く舞い降りてきた超癒し系男子。そして猫のクッションを両手で抱っこしている。話し方もふわふわしている。
@@ -34,7 +33,7 @@ permalink: /
 
 
 -----------
-## 葛葉　プロフィール
+# 葛葉　プロフィール
 
 ![image](https://images.microcms-assets.io/assets/08e9ffa2c9d94cf88900071dfa1879e9/5f8be0eaaed34ad39cbe46d4c6b4a2fe/liver-full-body_Kuzuha.png)
 親の甘い蜜を吸い続けるニートのゲーマー吸血鬼、現在は身の回りの世話をしてくれるペットのブタと生活している。
@@ -45,7 +44,7 @@ permalink: /
 
 
 
-----------
+-----------
 
 - デビュー日　2018/7/30
 - 誕生日　11/10
@@ -56,6 +55,10 @@ permalink: /
 - 身長　178cm
 - イメージカラー　#ACA7BB
 - ママ　本田ロアロ　>引用[@v_loAlo](https://twitter.com/v_loAlo?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+
+
+
+-----------
 # 見出し1
 ## 見出し2
 ### 見出し3
