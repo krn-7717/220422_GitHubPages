@@ -25,6 +25,7 @@ permalink: /
 - 血液型　A型
 - 身長　175cm
 - イメージカラー　#ABD3D8
+- ママ　U助　　> 引用[@u_skeeep](https://twitter.com/u_skeeep)
 以下テンプレート
 
 # 葛葉　プロフィール
@@ -36,6 +37,11 @@ permalink: /
 
 > 引用[リンク](https://www.nijisanji.jp/members/kuzuha)
 
+
+
+----------
+
+- デビュー日　
 # 見出し1
 ## 見出し2
 ### 見出し3
