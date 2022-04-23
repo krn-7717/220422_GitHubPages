@@ -28,7 +28,7 @@ permalink: /
 - 血液型　A型
 - 身長　175cm
 - イメージカラー　#ABD3D8
-- ママ　U助　　> 引用[@u_skeeep](https://twitter.com/u_skeeep)
+- ママ　U助　　[@u_skeeep](https://twitter.com/u_skeeep)
 
 
 
@@ -54,7 +54,7 @@ permalink: /
 - 血液型　不明
 - 身長　178cm
 - イメージカラー　#ACA7BB
-- ママ　本田ロアロ　>引用[@v_loAlo](https://twitter.com/v_loAlo?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+- ママ　本田ロアロ　[@v_loAlo](https://twitter.com/v_loAlo?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
 
 
