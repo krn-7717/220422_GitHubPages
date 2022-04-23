@@ -59,17 +59,18 @@ permalink: /
 
 
 -----------
-# 見出し1
-## 見出し2
-### 見出し3
-#### 見出し4
-##### 見出し5
-###### 見出し6
+### YouTube
+- [ChroNoiR](https://www.youtube.com/channel/UCz6vnIbgiqFT9xUcD6Bp65Q)
+- [Kanae](https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA)
+- [Kuzuha](https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g)
+-----------
+### Twitter
+- [ChroNoiR](https://twitter.com/chronoir_info)
+- [Kanae](https://twitter.com/Kanae_2434)
+- [Kuzuha](https://twitter.com/Vamp_Kuzu)
+-----------
 
-改行は、行末に半角スペースを2個いれる  
-次の行
 
-[リンク](https://www.google.co.jp/)
 
 **太字**
 
@@ -92,4 +93,3 @@ permalink: /
 | 内容  | 内容  |
 | 内容  | 内容  |
 
-![image](/220422_GitHubPages/assets/images/logo-150.png)
