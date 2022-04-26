@@ -61,16 +61,16 @@ permalink: /
 -----------
 ### YouTube
 - [ChroNoiR](https://www.youtube.com/channel/UCz6vnIbgiqFT9xUcD6Bp65Q)
-- [Kanae](https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA)
-- [Kuzuha](https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g)
+- [Kanae Channel](https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA)
+- [Kuzuha Channel](https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g)
 
 
 
 -----------
 ### Twitter
-- [ChroNoiR](https://twitter.com/chronoir_info)
-- [Kanae](https://twitter.com/Kanae_2434)
-- [Kuzuha](https://twitter.com/Vamp_Kuzu)
+- [@chronoir_info](https://twitter.com/chronoir_info)
+- [@Kanae_2434](https://twitter.com/Kanae_2434)
+- [@Vamp_Kuzu](https://twitter.com/Vamp_Kuzu)
 
 
 
